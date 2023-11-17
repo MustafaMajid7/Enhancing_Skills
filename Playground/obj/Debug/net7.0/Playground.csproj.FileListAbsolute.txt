@@ -1,0 +1,14 @@
+E:\ITI\playground\back\Playground\bin\Debug\net7.0\Playground.exe
+E:\ITI\playground\back\Playground\bin\Debug\net7.0\Playground.deps.json
+E:\ITI\playground\back\Playground\bin\Debug\net7.0\Playground.runtimeconfig.json
+E:\ITI\playground\back\Playground\bin\Debug\net7.0\Playground.dll
+E:\ITI\playground\back\Playground\bin\Debug\net7.0\Playground.pdb
+E:\ITI\playground\back\Playground\obj\Debug\net7.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\playground\back\Playground\obj\Debug\net7.0\Playground.AssemblyInfoInputs.cache
+E:\ITI\playground\back\Playground\obj\Debug\net7.0\Playground.AssemblyInfo.cs
+E:\ITI\playground\back\Playground\obj\Debug\net7.0\Playground.csproj.CoreCompileInputs.cache
+E:\ITI\playground\back\Playground\obj\Debug\net7.0\Playground.dll
+E:\ITI\playground\back\Playground\obj\Debug\net7.0\refint\Playground.dll
+E:\ITI\playground\back\Playground\obj\Debug\net7.0\Playground.pdb
+E:\ITI\playground\back\Playground\obj\Debug\net7.0\Playground.genruntimeconfig.cache
+E:\ITI\playground\back\Playground\obj\Debug\net7.0\ref\Playground.dll
